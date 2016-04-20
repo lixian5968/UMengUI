@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="umeng_comm_default_background_color">#ffffff</color>
+
+    <color name="umeng_comm_divider">#eeeff3</color>
+    <color name="umeng_comm_title">#008bea</color>
+    <color name="umeng_comm_loction_text_color">#9b9b9b</color>
+
+    <color name="umeng_comm_color_de">#dedede</color>
+    <color name="umeng_comm_color_33">#333333</color>
+    <color name="umeng_comm_color_a5">#a5a5a5</color>
+    <color name="umeng_comm_color_b5">#b5b5b5</color>
+    <color name="umeng_comm_color_c0">#c0c0c0</color>
+    <color name="umeng_comm_color_7d">#7d7d7d</color>
+    <color name="umeng_comm_color_e1">#e1e1e1</color>
+    <color name="umeng_comm_color_c5">#c5c5c5</color>
+    <color name="umeng_comm_color_c7">#c7c7c7</color>
+    <color name="umeng_comm_color_99">#999999</color>
+    <color name="umeng_comm_color_f5">#F5F6FA</color>
+    <color name="umeng_comm_color_ca">#CACACA</color>
+    <color name="umeng_comm_color_56">#566A97</color>
+</resources>

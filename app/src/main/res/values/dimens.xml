@@ -1,0 +1,68 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="action_bar_padding">50dp</dimen>
+
+
+
+    <dimen name="umeng_comm_dimen_1px">0.5dp</dimen>
+    <dimen name="umeng_comm_dimen_4px">2dp</dimen>
+    <dimen name="umeng_comm_dimen_6px">3dp</dimen>
+    <dimen name="umeng_comm_dimen_8px">4dp</dimen>
+    <dimen name="umeng_comm_dimen_10px">5dp</dimen>
+    <dimen name="umeng_comm_dimen_12px">6dp</dimen>
+    <dimen name="umeng_comm_dimen_14px">7dp</dimen>
+    <dimen name="umeng_comm_dimen_16px">8dp</dimen>
+    <dimen name="umeng_comm_dimen_18px">9dp</dimen>
+    <dimen name="umeng_comm_dimen_20px">10dp</dimen>
+    <dimen name="umeng_comm_dimen_24px">12dp</dimen>
+    <dimen name="umeng_comm_dimen_26px">13dp</dimen>
+    <dimen name="umeng_comm_dimen_28px">14dp</dimen>
+    <dimen name="umeng_comm_dimen_30px">15dp</dimen>
+    <dimen name="umeng_comm_dimen_32px">16dp</dimen>
+    <dimen name="umeng_comm_dimen_34px">17dp</dimen>
+    <dimen name="umeng_comm_dimen_40px">20dp</dimen>
+    <dimen name="umeng_comm_dimen_44px">22dp</dimen>
+    <dimen name="umeng_comm_dimen_46px">23dp</dimen>
+    <dimen name="umeng_comm_dimen_50px">25dp</dimen>
+    <dimen name="umeng_comm_dimen_56px">28dp</dimen>
+    <dimen name="umeng_comm_dimen_60px">30dp</dimen>
+    <dimen name="umeng_comm_dimen_64px">32dp</dimen>
+    <dimen name="umeng_comm_dimen_68px">34dp</dimen>
+    <dimen name="umeng_comm_dimen_70px">35dp</dimen>
+    <dimen name="umeng_comm_dimen_76px">38dp</dimen>
+    <dimen name="umeng_comm_dimen_80px">40dp</dimen>
+    <dimen name="umeng_comm_dimen_84px">42dp</dimen>
+    <dimen name="umeng_comm_dimen_90px">45dp</dimen>
+    <dimen name="umeng_comm_dimen_92px">46dp</dimen>
+    <dimen name="umeng_comm_dimen_96px">48dp</dimen>
+    <dimen name="umeng_comm_dimen_100px">50dp</dimen>
+    <dimen name="umeng_comm_dimen_108px">54dp</dimen>
+    <dimen name="umeng_comm_dimen_120px">60dp</dimen>
+    <dimen name="umeng_comm_dimen_130px">65dp</dimen>
+    <dimen name="umeng_comm_dimen_134px">67dp</dimen>
+    <dimen name="umeng_comm_dimen_138px">69dp</dimen>
+    <dimen name="umeng_comm_dimen_140px">70dp</dimen>
+    <dimen name="umeng_comm_dimen_150px">75dp</dimen>
+    <dimen name="umeng_comm_dimen_158px">79dp</dimen>
+    <dimen name="umeng_comm_dimen_160px">80dp</dimen>
+    <dimen name="umeng_comm_dimen_170px">85dp</dimen>
+    <dimen name="umeng_comm_dimen_220px">110dp</dimen>
+    <dimen name="umeng_comm_dimen_300px">150dp</dimen>
+    <dimen name="umeng_comm_dimen_320px">160dp</dimen>
+    <dimen name="umeng_comm_dimen_340px">170dp</dimen>
+    <dimen name="umeng_comm_dimen_360px">180dp</dimen>
+
+
+    <dimen name="umeng_comm_text_20px">10sp</dimen>
+    <dimen name="umeng_comm_text_22px">11sp</dimen>
+    <dimen name="umeng_comm_text_24px">12sp</dimen>
+    <dimen name="umeng_comm_text_26px">13sp</dimen>
+    <dimen name="umeng_comm_text_28px">14sp</dimen>
+    <dimen name="umeng_comm_text_30px">15sp</dimen>
+    <dimen name="umeng_comm_text_32px">16sp</dimen>
+    <dimen name="umeng_comm_text_36px">18sp</dimen>
+</resources>
