@@ -6,7 +6,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical">
 
-    <include layout="@layout/umeng_comm_switch_button" />
 
     <include layout="@layout/umeng_comm_search_header_view" />
 

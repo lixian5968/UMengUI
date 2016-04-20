@@ -20,4 +20,16 @@
     <color name="umeng_comm_color_f5">#F5F6FA</color>
     <color name="umeng_comm_color_ca">#CACACA</color>
     <color name="umeng_comm_color_56">#566A97</color>
+
+
+    <color name="main_blue_light">#3F56B5</color>
+    <color name="main_blue_dark">#30459E</color>
+
+    <color name="umeng_comm_text_topic_light_color">#4a90e2</color>
+    <color name="umeng_comm_feed_item_forward_bg">#f5f6fa</color>
+    <color name="umeng_comm_color_666666">#666666</color>
+
+    <color name="umeng_text_common_selected">#008bea</color>
+
+    <color name="umeng_comm_text_time">#999999</color>
 </resources>

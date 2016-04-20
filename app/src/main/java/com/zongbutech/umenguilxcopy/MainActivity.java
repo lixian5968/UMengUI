@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         newsList.add("话题");
         MainHomeFragmentAdaper adapter = new MainHomeFragmentAdaper(getSupportFragmentManager(), newsList);
         home_viewpager.setAdapter(adapter);
-        home_viewpager.setOffscreenPageLimit(1);
+        home_viewpager.setOffscreenPageLimit(4);
         home_tablayout.setupWithViewPager(home_viewpager);
         if (newsList.size() > 3) {
             home_tablayout.setTabMode(TabLayout.MODE_SCROLLABLE);
@@ -58,7 +58,10 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public Fragment getItem(int position) {
             if (position == 0) {
-                FragmentHotDemo demo = new FragmentHotDemo();
+                FragmentHotFeed demo = new FragmentHotFeed();
+                return demo;
+            } else if (position == 3) {
+                FragmentTopic demo = new FragmentTopic();
                 return demo;
             } else {
                 FragmentDemo demo = new FragmentDemo();

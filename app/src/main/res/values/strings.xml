@@ -8,4 +8,9 @@
 
     <string name="umeng_comm_search_view_hint">搜索用户和内容</string>
     <string name="umeng_comm_no_recommend_user">暂时没有推荐用户咯</string>
+
+    <string name="umeng_comm_desc">contentDescription</string>
+    <string name="umeng_comm_zero">0</string>
+    <string name="umeng_comm_topic_followed">取消关注</string>
+    <string name="umeng_comm_follow_topic">关注</string>
 </resources>

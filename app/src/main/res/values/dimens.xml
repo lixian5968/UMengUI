@@ -65,4 +65,12 @@
     <dimen name="umeng_comm_text_30px">15sp</dimen>
     <dimen name="umeng_comm_text_32px">16sp</dimen>
     <dimen name="umeng_comm_text_36px">18sp</dimen>
+
+
+    <dimen name="text_big12_size">12sp</dimen>
+    <dimen name="text_big13_size">13sp</dimen>
+    <dimen name="text_big14_size">14sp</dimen>
+    <dimen name="text_big15_size">15sp</dimen>
+    <dimen name="text_big16_size">16sp</dimen>
+    <dimen name="text_big18_size">18sp</dimen>
 </resources>
